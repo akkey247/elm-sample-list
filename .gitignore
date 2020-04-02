@@ -1,3 +1,5 @@
 .DS_Store
-elm-stuff
+.cache
+dist
 node_modules
+package-lock.json
